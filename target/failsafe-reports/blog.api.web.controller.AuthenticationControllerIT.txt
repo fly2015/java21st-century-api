@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: blog.api.web.controller.AuthenticationControllerIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.064 s <<< FAILURE! - in blog.api.web.controller.AuthenticationControllerIT
+shouldReturnAuthenticatedUser(blog.api.web.controller.AuthenticationControllerIT)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+

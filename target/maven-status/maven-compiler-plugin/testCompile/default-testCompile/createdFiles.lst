@@ -1,0 +1,6 @@
+blog\api\web\controller\UserControllerIT.class
+blog\api\utils\BaseIntegrationTest.class
+blog\api\web\controller\UserControllerTests.class
+blog\api\utils\BaseIntegrationTest$Initializer.class
+blog\api\utils\TestHelper.class
+blog\api\web\controller\AuthenticationControllerIT.class
